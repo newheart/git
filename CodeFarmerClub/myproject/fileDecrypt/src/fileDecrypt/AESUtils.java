@@ -1,10 +1,6 @@
 package fileDecrypt;
 
-import java.io.UnsupportedEncodingException;
-import java.util.Map;
-
 import javax.crypto.Cipher;
-
 import javax.crypto.SecretKey;
 import javax.crypto.spec.SecretKeySpec;
 
